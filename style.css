@@ -405,7 +405,7 @@ margin-top: 30px;
 
 .ventaequipos .card-body .card-text{
 
-    display: flex;
+    display: grid;
 }
 
 /*FIN SECTION VENTA EQUIPOS*/
